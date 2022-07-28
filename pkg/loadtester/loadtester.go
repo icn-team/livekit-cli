@@ -8,13 +8,13 @@ import (
 
 	"github.com/pion/rtp"
 	"github.com/pion/rtp/codecs"
-	"github.com/pion/webrtc/v3"
+	"github.com/icn-team/webrtc/v3"
 	"go.uber.org/atomic"
 
 	provider2 "github.com/livekit/livekit-cli/pkg/provider"
 	"github.com/livekit/protocol/livekit"
-	lksdk "github.com/livekit/server-sdk-go"
-	"github.com/livekit/server-sdk-go/pkg/samplebuilder"
+	lksdk "github.com/icn-team/server-sdk-go"
+	"github.com/icn-team/server-sdk-go/pkg/samplebuilder"
 )
 
 type LoadTester struct {

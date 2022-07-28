@@ -5,7 +5,7 @@ import (
 
 	"go.uber.org/atomic"
 
-	lksdk "github.com/livekit/server-sdk-go"
+	lksdk "github.com/icn-team/server-sdk-go"
 )
 
 type testerStats struct {

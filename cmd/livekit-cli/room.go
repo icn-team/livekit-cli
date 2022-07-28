@@ -9,7 +9,7 @@ import (
 	"github.com/urfave/cli/v2"
 
 	"github.com/livekit/protocol/livekit"
-	lksdk "github.com/livekit/server-sdk-go"
+	lksdk "github.com/icn-team/server-sdk-go"
 )
 
 const roomCategory = "Room Server API"

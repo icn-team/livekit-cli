@@ -6,7 +6,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/pion/webrtc/v3/pkg/media"
+	"github.com/icn-team/webrtc/v3/pkg/media"
 )
 
 // LoadTestProvider is designed to be used with the load tester.

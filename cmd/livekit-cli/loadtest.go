@@ -11,7 +11,7 @@ import (
 	"github.com/urfave/cli/v2"
 
 	"github.com/livekit/livekit-cli/pkg/loadtester"
-	lksdk "github.com/livekit/server-sdk-go"
+	lksdk "github.com/icn-team/server-sdk-go"
 )
 
 var LoadTestCommands = []*cli.Command{

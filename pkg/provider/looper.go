@@ -1,10 +1,10 @@
 package provider
 
 import (
-	"github.com/pion/webrtc/v3"
+	"github.com/icn-team/webrtc/v3"
 
 	"github.com/livekit/protocol/livekit"
-	lksdk "github.com/livekit/server-sdk-go"
+	lksdk "github.com/icn-team/server-sdk-go"
 )
 
 type VideoLooper interface {
